@@ -1,6 +1,0 @@
-framework module TyporaHook {
-  umbrella header "TyporaHook.h"
-  export *
-
-  module * { export * }
-}
